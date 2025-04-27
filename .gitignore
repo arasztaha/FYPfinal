@@ -1,0 +1,35 @@
+# VS Code specific
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Node dependencies
+techcoachai/node_modules/
+techcoachai/backend/node_modules/
+
+# Build Output / Archives
+output.zip
+techcoachai/dist/
+techcoachai/backend/dist/
+
+# Environment variables
+.env
+techcoachai/.env
+techcoachai/backend/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun.lockb # Usually committed, but you can ignore if preferred
+
+# Optional: Ignore lock file if managing dependencies differently
+# package-lock.json # If using npm
+# yarn.lock # If using yarn
