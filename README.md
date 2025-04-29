@@ -128,3 +128,7 @@ Follow these instructions to set up and run the project locally.
 * Add more sophisticated AI feedback analysis.
 * Implement user profiles and settings.
 * Add support for more programming languages.
+* Implement Interview Simulation Features (e.g., Time Constraints)
+* Add Debugging Challenges
+* Implement Mock Interview Mode
+* Implement Simple Portfolio/Showcase Feature
